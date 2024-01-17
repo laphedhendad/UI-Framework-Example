@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.laphed.ui-framework": {
+      "version": "https://github.com/laphedhendad/com.laphed.ui-framework.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4a68f2afbbd72594e3297cdca93de4f097c3b5b8"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.4",
       "depth": 1,
