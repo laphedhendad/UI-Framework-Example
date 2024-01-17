@@ -1,0 +1,23 @@
+{
+    "name": "UIFrameworkExample",
+    "rootNamespace": "UIFrameworkExample",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:fae67efbd5fd4b84bb09b79f6d67d199",
+        "GUID:029c1c1b674aaae47a6841a0b89ad80e",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:38531a8a6cccc1e40929c5761ceb76a9",
+        "GUID:849c4a899d48346459c9f919a37f6310",
+        "GUID:cdda196ad70c47f40ae7a6aff190a032"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
