@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.5.0",
-    "com.laphed.ui-framework": "https://github.com/laphedhendad/com.laphed.ui-framework.git",
+    "com.laphed.reactivity": "https://github.com/laphedhendad/Lightweight-Reactivity.git",
+    "com.laphed.ui-framework": "https://github.com/laphedhendad/UI-Framework.git",
     "com.unity.collab-proxy": "2.2.0",
     "com.unity.feature.2d": "2.0.0",
     "com.unity.ide.rider": "3.0.26",

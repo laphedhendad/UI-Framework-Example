@@ -7,12 +7,19 @@
       "dependencies": {},
       "hash": "56662924960a53695a640af80125f1cfd334d5ee"
     },
-    "com.laphed.ui-framework": {
-      "version": "https://github.com/laphedhendad/com.laphed.ui-framework.git",
+    "com.laphed.reactivity": {
+      "version": "https://github.com/laphedhendad/Lightweight-Reactivity.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4a68f2afbbd72594e3297cdca93de4f097c3b5b8"
+      "hash": "b28c963a04793dc16ee94feb9b0dca7f1897e393"
+    },
+    "com.laphed.ui-framework": {
+      "version": "https://github.com/laphedhendad/UI-Framework.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0829926234752d0aea7aab5561a0e39ccaf35f90"
     },
     "com.unity.2d.animation": {
       "version": "9.0.4",
